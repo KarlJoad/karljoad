@@ -1,6 +1,6 @@
 # Hey!
 
-I am a 2nd year PhD student in Northwestern University's Computer Engineering department.
+I am a 3rd year PhD candidate in Northwestern University's Computer Engineering department.
 
 My primary interests lie in further blurring the hardware/software interface by co-designing each of them for the other.
 In practice, this means I
